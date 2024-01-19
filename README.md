@@ -1,8 +1,11 @@
 API Interview
+
 Problem
+
 For this interview, you will be using the Frankfurter API to analyze Foreign Exchange rates.
 
 Get Fx Rates
+
 Create a function called getRates that takes a string as a parameter. The string represents a base currency such as 'USD' for dollars or 'EUR' for euros.
 
 The API endpoint will be similar to this endpoint to fetch exchange rates in USD: https://api.frankfurter.app/latest?from=USD .
