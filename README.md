@@ -1,9 +1,9 @@
 # API Interview
 
-##Problem
+## Problem
 For this interview, you will be using the Frankfurter API to analyze Foreign Exchange rates.
 
-##Get Fx Rates
+## Get Fx Rates
 
 Create a function called ```getRates``` that takes a string as a parameter. The string represents a base currency such as 'USD' for dollars or 'EUR' for euros.
 
